@@ -1,0 +1,24 @@
+From ddeddd9c35004064532d1c29308e30e391636341 Mon Sep 17 00:00:00 2001
+From: Cristina Butuc <butuc_cristina2000@yahoo.com>
+Date: Thu, 26 Oct 2023 14:05:32 +0300
+Subject: [PATCH] modify the first 2 lines
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index e30acea..e1757d2 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Bury all your secrets in my skin
+-Come away with innocence, and leave me with my sins
++Soarele scuipă, pământul tresare
++Și demonii aplaudă salbe de foc
+ The air around me still feels like a cage
+ And love is just a camouflage for what resembles rage again
+ So, if you love me, let me go
+-- 
+2.38.0.windows.1
+
